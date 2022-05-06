@@ -17,7 +17,7 @@
 - [x]  jQuery: domine a biblioteca mais popular do mercado parte 1;
 - [x]  jQuery: avance na biblioteca mais popular do mercado parte 2;
 - [x]  Layouts Responsivos: Trabalhando com Layouts Mobile;
-- [ ]  Front-end: Projeto de conclusão;
+- [x]  Front-end: projeto de conclusão;
 
 ### Back-end 🔚
 
