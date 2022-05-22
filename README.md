@@ -23,7 +23,7 @@
 
 - [x]  Java JRE e JDK: escreva o seu primeiro código com Eclipse;
 - [x]  Java OO: introdução à Orientação a Objetos;
-- [ ]  Java Polimorfismo: entenda herança e interfaces;
+- [x]  Java Polimorfismo: entenda herança e interfaces;
 - [ ]  Java Exceções: aprenda a criar, lançar e controlar exceções;
 - [ ]  Java e java.lang: programe com a classe Object e String;
 - [ ]  Java e java.util: Coleções, Wrappers e Lambda expressions;
