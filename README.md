@@ -27,6 +27,6 @@
 - [x]  Java Exceções: aprenda a criar, lançar e controlar exceções;
 - [x]  Java e java.lang: programe com a classe Object e String;
 - [x]  Java e java.util: Coleções, Wrappers e Lambda expressions;
-- [ ]  Java e [java.io](http://java.io/): Streams, Reader e Writers;
+- [x]  Java e [java.io](http://java.io/): Streams, Reader e Writers;
 - [x]  Java Collections: Dominando Listas, Sets e Mapas;
 - [ ]  Java moderno: tire proveito dos novos recursos do Java 8;
